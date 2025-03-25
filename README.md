@@ -51,12 +51,11 @@ The **Miller compensation** technique enhances phase margin and extends bandwidt
 
 ## **Files Included**
 - `LDO_Schematic.png` – Circuit diagram   
-- `LDO_Report.pdf` – Detailed project report  
+- `LDO_Report_.pdf` – Detailed project report  
 
 ## **Tools Used**
 - **Technology:** SCL 180nm CMOS  
 - **Simulation Software:** Cadence Virtuoso  
-- **Schematic & Layout:** Virtuoso Schematic Editor & Layout XL  
 
 ## **Author**
 Sushant Gudmewar  
