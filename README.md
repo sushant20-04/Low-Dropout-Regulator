@@ -60,6 +60,7 @@ The **Miller compensation** technique enhances phase margin and extends bandwidt
 ## **Author**
 Sushant Gudmewar  
 Integrated B.Tech-M.Tech 
+
 Electrical Engineering, IIT Gandhinagar  
 
 ---
