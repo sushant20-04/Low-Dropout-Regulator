@@ -1,11 +1,6 @@
-# Low-Dropout-Regulator
+# **Analog LDO Voltage Regulator - SCL 180nm CMOS Technology**
 Designed an Analog LDO Regulator in SCL 180nm CMOS Technology in "Power Management IC Design" Course under Prof. Madhav Pathak
 
-Here is a README file for your GitHub project on the **Design of an Analog LDO Regulator in SCL 180nm CMOS Technology**:
-
----
-
-# **Analog LDO Voltage Regulator - SCL 180nm CMOS Technology**
 
 ## **Overview**
 This project presents the design and analysis of a Low Dropout (LDO) Voltage Regulator implemented in **SCL 180nm CMOS technology** for power management applications. The regulator provides a stable **1.6V output** from a **1.8V input**, supporting load currents from **20mA to 100mA** with high efficiency and robust transient response.
@@ -30,7 +25,7 @@ The LDO consists of:
 - **Feedback Network**
 - **Miller Compensation** for stability  
 
-The **Miller compensation** technique enhances phase margin and extends bandwidth using a compensation capacitor **(Cc = 5pF)**.
+The **Miller compensation** technique enhances phase margin and extends bandwidth using a compensation capacitor **(Cc = 8.5pF)**.
 
 ## **Key Performance Metrics**
 | Parameter | Value |
@@ -55,8 +50,7 @@ The **Miller compensation** technique enhances phase margin and extends bandwidt
 | Pass Transistor | 4mW – 20mW (varies with load) |
 
 ## **Files Included**
-- `LDO_Schematic.png` – Circuit diagram  
-- `Simulation_Results.png` – Frequency and transient response plots  
+- `LDO_Schematic.png` – Circuit diagram   
 - `LDO_Report.pdf` – Detailed project report  
 
 ## **Tools Used**
@@ -66,8 +60,8 @@ The **Miller compensation** technique enhances phase margin and extends bandwidt
 
 ## **Author**
 Sushant Gudmewar  
+Integrated B.Tech-M.Tech 
 Electrical Engineering, IIT Gandhinagar  
 
 ---
 
-This README ensures that your project is well-documented and easy to understand for others exploring your GitHub repository. Let me know if you'd like any modifications! 🚀
